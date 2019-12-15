@@ -1,12 +1,13 @@
 # Sample_Session1_3 README
 
-![image](./images/repoimage.jpg)
+![image](images/Repoimage.JPG)
+
 ## This is a description of the README
 ### this README is compoesed these contents
-* [code](code/.gitkeep)
-* [data](data/gitkeep)
-* [images](images/large)
-* [references](references)
+* [code](code/)
+* [data](data/)
+* [images](images/)
+* [references](references/)
 
 Creating more code
 
