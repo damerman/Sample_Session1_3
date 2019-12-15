@@ -3,7 +3,7 @@
 ![image](images/Repoimage.JPG)
 
 ## This is a description of the README
-### this README is compoesed these contents
+### this README is composed these contents
 * [code](code/)
 * [data](data/)
 * [images](images/)
